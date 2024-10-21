@@ -1,6 +1,6 @@
 # Online-Hotel-Reservation-System
 # A simple online hotel reservation system
-# Bulit with Spring boot framework and adopted PostgreSQL as the database. 
+<h2> Bulit with Spring boot framework and adopted PostgreSQL as the database. </h2>
 
 <h2>Features:</h2><br/>
 Hotel CRUD:<br/>
